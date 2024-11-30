@@ -13,7 +13,7 @@ body, html {
 }
 
 body{
-	background: #e2dfd7;
+	background: #888888;
 }
 
 .board {
@@ -101,15 +101,15 @@ body{
 }
 
 .row:nth-child(2n) .small:nth-child(2n):hover {
-	background: rgba(160,241,27,0.8);
+	background: rgba(236, 233, 123, 0.8);
 }
 
 .row:nth-child(2n+1) .small:nth-child(2n+1):hover {
-	background: rgba(160,241,27,0.8);
+	background: rgba(236, 233, 123, 0.8);
 }
 .row:nth-child(2n+1) .small:nth-child(2n):hover {
-	background: rgba(160,241,27,0.8);
+	background: rgba(236, 233, 123, 0.8);
 }
 
 .row:nth-child(2n) .small:nth-child(2n+1):hover {
-	background: rgba(160,241,27,0.8);
+	background: rgba(236, 233, 123, 0.8);
